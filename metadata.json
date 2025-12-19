@@ -1,0 +1,7 @@
+{
+  "name": "Linguist AI Translator",
+  "description": "A high-end, real-time language translation application featuring voice input, text-to-speech output, and smart context-aware translations powered by Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
